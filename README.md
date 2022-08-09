@@ -12,7 +12,7 @@
 
 Скопируйте репозиторий.
 ```sh
-git clone https://github.com/VladisloveRus/api_yamdb
+git clone https://github.com/and-volkov/api_yamdb
 ```
 Установите и активируйте виртуальное окружение.
 ```sh
